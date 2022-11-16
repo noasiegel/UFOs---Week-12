@@ -12,11 +12,11 @@ In the screenshot below, one can see how there are five options to filter the da
 
 ![Screen Shot 2022-11-15 at 8 14 35 PM](https://user-images.githubusercontent.com/110838228/202059145-a157ab7c-ba17-4564-b612-fcbd63e8bd67.png)
 
-Once the user decides how they want to search for UFO data, they will see a filtered table to the right of the search boxes:
+Once the user decides how they want to search for UFO data, they will see a filtered table to the right of the search boxes. Here we can see all the information collected about UFO sightings in the state of North Carolina.
 
 ![Screen Shot 2022-11-15 at 8 16 14 PM](https://user-images.githubusercontent.com/110838228/202059346-80007ac6-95d7-48e9-8be2-d0b123c2bd58.png)
 
-Here we can see all the information collected about UFO sightings in the state of North Carolina. If a user inputs a search term that doesn't exist, the table will simply show no data.
+If a user inputs a search term that doesn't exist, the table will simply show no data.
 
 ![Screen Shot 2022-11-15 at 8 17 01 PM](https://user-images.githubusercontent.com/110838228/202059453-725a69d3-27c2-4118-b409-1c222955e2fa.png)
 
